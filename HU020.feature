@@ -1,4 +1,4 @@
-HU019
+HU020
 Feature: "Preguntas frecuentes"
 
 Scenario:
