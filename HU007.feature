@@ -1,5 +1,5 @@
 HU007
-Feature: "Sección de inicio que explique brevemente que es Smart Solutions y que resuelve"
+Feature: "Sección de características que describa las principales funcionalidades del sistema de detección de emergencias "
 
 Scenario:
     Given que el visitante accede al landing page desde cualquier navegador  
